@@ -1,3 +1,11 @@
 {
-  "name": "HCK"
+  "Name": "HCK",
+  "Games": [
+    {
+      "Name": "Lethal Company",
+      "Description": "Juego para los jajas",
+      "Link": "aaa",
+      "Executable": "bbc"
+    }
+  ]
 }
